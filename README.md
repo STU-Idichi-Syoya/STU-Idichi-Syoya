@@ -1,5 +1,5 @@
 
-# Theme Preview
+# Recent activities
 
 ## [default](./default/README.md)
 [![](https://raw.githubusercontent.com/STU-Idichi-Syoya/STU-Idichi-Syoya/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
